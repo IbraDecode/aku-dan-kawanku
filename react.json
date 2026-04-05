@@ -2,7 +2,7 @@
   "version": 1,
   "config": {
     "autoReactEnabled": true,
-    "reactEmojis": ["🔥", "❤️", "👍"]
+    "reactEmojis": ["👍"]
   },
   "newsletters": [
     {
@@ -14,6 +14,11 @@
       "jid": "120363421598489822@newsletter",
       "enabled": true,
       "emojis": ["👍"]
+    },
+    {
+      "jid": "120363390311817009@newsletter",
+      "enabled": true
+      "emojis": ["🤮", "🤢"]
     }
   ]
 }
