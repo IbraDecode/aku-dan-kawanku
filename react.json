@@ -19,6 +19,11 @@
       "jid": "120363390311817009@newsletter",
       "enabled": true
       "emojis": ["🤮", "🤢"]
+    },
+    {
+      "jid": "120363416755002041@newsletter",
+      "enabled": true,
+      "emojis": ["🔥", "❤️"]
     }
   ]
 }
