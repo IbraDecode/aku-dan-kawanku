@@ -1,8 +1,7 @@
 {
   "version": 1,
   "config": {
-    "autoReactEnabled": true,
-    "reactEmojis": ["👍"]
+    "autoReactEnabled": true
   },
   "newsletters": [
     {
