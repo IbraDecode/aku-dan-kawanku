@@ -14,46 +14,6 @@
       "jid": "120363421598489822@newsletter",
       "enabled": true,
       "emojis": ["👍"]
-    },
-    {
-      "jid": "120363425119690841@newsletter",
-      "enabled": true,
-      "emojis": ["🔥"]
-    },
-    {
-      "jid": "120363425354436037@newsletter",
-      "enabled": true,
-      "emojis": ["❤️"]
-    },
-    {
-      "jid": "120363424976921347@newsletter",
-      "enabled": true,
-      "emojis": ["🎉"]
-    },
-    {
-      "jid": "120363426331092995@newsletter",
-      "enabled": true,
-      "emojis": ["🔥", "👍"]
-    },
-    {
-      "jid": "120363409062443791@newsletter",
-      "enabled": true,
-      "emojis": ["❤️"]
-    },
-    {
-      "jid": "120363426704018852@newsletter",
-      "enabled": true,
-      "emojis": ["🔥"]
-    },
-    {
-      "jid": "120363426023251221@newsletter",
-      "enabled": true,
-      "emojis": ["👍"]
-    },
-    {
-      "jid": "120363408847338020@newsletter",
-      "enabled": true,
-      "emojis": ["🔥", "🎉"]
     }
   ]
 }
