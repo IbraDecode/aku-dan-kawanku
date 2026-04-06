@@ -2,7 +2,8 @@
   "version": 1,
   "config": {
     "autoFollowEnabled": true,
-    "delayMs": 5000
+    "delayMs": 5000,
+    "intervalMs": 30000
   },
   "newsletters": [
     {
