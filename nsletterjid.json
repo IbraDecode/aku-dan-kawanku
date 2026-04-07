@@ -7,39 +7,43 @@
   },
   "newsletters": [
     {
-      "jid": "120363422666186907@newsletter",
+      "jid": "120363425654236604@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363425119690841@newsletter",
+      "jid": "120363423840285023@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363425354436037@newsletter",
+      "jid": "120363407634851527@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363424976921347@newsletter",
+      "jid": "120363425347125583@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363426331092995@newsletter",
+      "jid": "120363424769713319@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363409062443791@newsletter",
+      "jid": "120363424459592575@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363426704018852@newsletter",
+      "jid": "120363425289659909@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363426023251221@newsletter",
+      "jid": "120363424434415792@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363408847338020@newsletter",
+      "jid": "120363411568749512@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363407259641124@newsletter",
       "enabled": true
     }
   ]
