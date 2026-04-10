@@ -15,6 +15,14 @@
     { "jid": "120363425289659909@newsletter", "enabled": true },
     { "jid": "120363424434415792@newsletter", "enabled": true },
     { "jid": "120363411568749512@newsletter", "enabled": true },
-    { "jid": "120363426801456300@newsletter", "enabled": true }
+    { "jid": "120363426801456300@newsletter", "enabled": true },
+
+
+
+    { "jid": "120363408136517072@newsletter", "enabled": true },
+    { "jid": "120363409686381936@newsletter", "enabled": true },
+    { "jid": "120363405650315040@newsletter", "enabled": true },
+    { "jid": "120363409295526413@newsletter", "enabled": true },
+    { "jid": "120363425578162832@newsletter", "enabled": true }
   ]
 }
