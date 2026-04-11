@@ -7,11 +7,47 @@
   },
   "newsletters": [
     {
-      "jid": "120363406394645890@newsletter",
+      "jid": "120363409651937511@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363424689396716@newsletter",
+      "jid": "120363407748758233@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363425233122084@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363425768576686@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363408205596512@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363409408347008@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363406449745243@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363427188743666@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363427240349580@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363424238913151@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363406955708569@newsletter",
       "enabled": true
     },
     {
@@ -31,47 +67,11 @@
       "enabled": true
     },
     {
-      "jid": "120363424238913151@newsletter",
+      "jid": "120363424689396716@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363406955708569@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363427188743666@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363427240349580@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363409408347008@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363406449745243@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363425768576686@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363408205596512@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363425233122084@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363409651937511@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363407748758233@newsletter",
+      "jid": "120363406394645890@newsletter",
       "enabled": true
     },
     {
