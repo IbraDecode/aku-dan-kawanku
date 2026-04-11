@@ -7,23 +7,71 @@
   },
   "newsletters": [
     {
-      "jid": "120363405524481175@newsletter",
+      "jid": "120363407975053396@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363408419834239@newsletter",
+      "jid": "120363425749553557@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363407895052200@newsletter",
+      "jid": "120363409096207754@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363409669109724@newsletter",
+      "jid": "120363426362255364@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363425768576686@newsletter",
+      "jid": "120363426584315318@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363426290035601@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363427448979263@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363425115824029@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363424748701076@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363409790959480@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363424469663121@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363407559449905@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363426882078583@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363406963661241@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363408398574846@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363423598693126@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363409651937511@newsletter",
       "enabled": true
     },
     {
@@ -43,71 +91,23 @@
       "enabled": true
     },
     {
-      "jid": "120363409651937511@newsletter",
+      "jid": "120363405524481175@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363409790959480@newsletter",
+      "jid": "120363408419834239@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363424469663121@newsletter",
+      "jid": "120363407895052200@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363406963661241@newsletter",
+      "jid": "120363409669109724@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363407559449905@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363426882078583@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363408398574846@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363423598693126@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363409096207754@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363426362255364@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363425115824029@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363424748701076@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363427448979263@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363426584315318@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363426290035601@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363407975053396@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363425749553557@newsletter",
+      "jid": "120363425768576686@newsletter",
       "enabled": true
     }
   ]
