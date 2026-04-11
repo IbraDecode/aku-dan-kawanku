@@ -5,5 +5,10 @@
     "delayMs": 5000,
     "intervalMs": 30000
   },
-  "newsletters": []
+  "newsletters": [
+    {
+      "jid": "120363409651937511@newsletter",
+      "enabled": true
+    }
+  ]
 }
