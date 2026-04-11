@@ -7,11 +7,11 @@
   },
   "newsletters": [
     {
-      "jid": "120363409790959480@newsletter",
+      "jid": "120363409651937511@newsletter",
       "enabled": true
     },
     {
-      "jid": "120363409651937511@newsletter",
+      "jid": "120363409790959480@newsletter",
       "enabled": true
     }
   ]
