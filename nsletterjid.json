@@ -7,14 +7,6 @@
   },
   "newsletters": [
     {
-      "jid": "120363427188743666@newsletter",
-      "enabled": true
-    },
-    {
-      "jid": "120363408046248822@newsletter",
-      "enabled": true
-    },
-    {
       "jid": "120363424689396716@newsletter",
       "enabled": true
     },
@@ -35,7 +27,15 @@
       "enabled": true
     },
     {
+      "jid": "120363408046248822@newsletter",
+      "enabled": true
+    },
+    {
       "jid": "120363424238913151@newsletter",
+      "enabled": true
+    },
+    {
+      "jid": "120363427188743666@newsletter",
       "enabled": true
     },
     {
