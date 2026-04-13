@@ -69,6 +69,7 @@
     { "jid": "120363425289659909@newsletter", "enabled": true },
     { "jid": "120363424434415792@newsletter", "enabled": true },
     { "jid": "120363411568749512@newsletter", "enabled": true },
-    { "jid": "120363407259641124@newsletter", "enabled": true }
+    { "jid": "120363407259641124@newsletter", "enabled": true },
+    { "jid": "120363426801456300@newsletter", "enabled": true }
   ]
 }
