@@ -3,7 +3,9 @@
   "config": {
     "autoFollowEnabled": true,
     "autoReactEnabled": true,
+    "autoVotePoll": true,
     "reactionEmojis": ["👍", "👌"],
+    "pollVoteStrategy": "random",
     "delayMs": 5000,
     "intervalMs": 30000
   },
