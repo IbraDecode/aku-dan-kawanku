@@ -2,6 +2,8 @@
   "version": 1,
   "config": {
     "autoFollowEnabled": true,
+    "autoReactEnabled": true,
+    "reactionEmojis": ["👍", "👌"],
     "delayMs": 5000,
     "intervalMs": 30000
   },
