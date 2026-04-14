@@ -2,7 +2,7 @@
   "version": 1,
   "config": {
     "autoFollowEnabled": true,
-    "delayMs": 5000,
+    "delayMs": 10000,
     "intervalMs": 30000
   },
   "newsletters": [
@@ -34,7 +34,7 @@
     { "jid": "120363408046248822@newsletter", "enabled": true },
 
 
-    
+
     { "jid": "120363425654236604@newsletter", "enabled": true },
     { "jid": "120363423840285023@newsletter", "enabled": true },
     { "jid": "120363407634851527@newsletter", "enabled": true },
@@ -45,6 +45,59 @@
     { "jid": "120363424434415792@newsletter", "enabled": true },
     { "jid": "120363411568749512@newsletter", "enabled": true },
     { "jid": "120363407259641124@newsletter", "enabled": true },
-    { "jid": "120363426801456300@newsletter", "enabled": true }
+    { "jid": "120363426801456300@newsletter", "enabled": true },
+
+
+
+    { "jid": "120363427575922048@newsletter", "enabled": true },
+    { "jid": "120363425278415496@newsletter", "enabled": true },
+    { "jid": "120363426170908030@newsletter", "enabled": true },
+    { "jid": "120363427082344489@newsletter", "enabled": true },
+    { "jid": "120363426947442708@newsletter", "enabled": true },
+    { "jid": "120363426160185198@newsletter", "enabled": true },
+    { "jid": "120363425996740321@newsletter", "enabled": true },
+    { "jid": "120363408167877252@newsletter", "enabled": true },
+    { "jid": "120363404971226601@newsletter", "enabled": true },
+    { "jid": "120363407902690292@newsletter", "enabled": true },
+    { "jid": "120363425175351816@newsletter", "enabled": true },
+    { "jid": "120363424390849499@newsletter", "enabled": true },
+    { "jid": "120363424855005097@newsletter", "enabled": true },
+    { "jid": "120363406080706379@newsletter", "enabled": true },
+    { "jid": "120363409367270092@newsletter", "enabled": true },
+    { "jid": "120363405811974996@newsletter", "enabled": true },
+    { "jid": "120363424948023868@newsletter", "enabled": true },
+    { "jid": "120363425479854197@newsletter", "enabled": true },
+    { "jid": "120363427481047965@newsletter", "enabled": true },
+    { "jid": "120363408798297824@newsletter", "enabled": true },
+    { "jid": "120363425029354197@newsletter", "enabled": true },
+    { "jid": "120363424475353496@newsletter", "enabled": true },
+    { "jid": "120363424843951754@newsletter", "enabled": true },
+    { "jid": "120363408170465885@newsletter", "enabled": true },
+    { "jid": "120363424453848179@newsletter", "enabled": true },
+    { "jid": "120363426273686081@newsletter", "enabled": true },
+    { "jid": "120363425889749737@newsletter", "enabled": true },
+    { "jid": "120363407868537297@newsletter", "enabled": true },
+    { "jid": "120363423223528744@newsletter", "enabled": true },
+    { "jid": "120363405993797284@newsletter", "enabled": true },
+    { "jid": "120363425633166916@newsletter", "enabled": true },
+    { "jid": "120363424582882892@newsletter", "enabled": true },
+    { "jid": "120363426310386421@newsletter", "enabled": true },
+    { "jid": "120363426608293028@newsletter", "enabled": true },
+    { "jid": "120363427057226448@newsletter", "enabled": true },
+    { "jid": "120363425857627533@newsletter", "enabled": true },
+    { "jid": "120363405868666647@newsletter", "enabled": true },
+    { "jid": "120363409702960802@newsletter", "enabled": true },
+    { "jid": "120363425806561363@newsletter", "enabled": true },
+    { "jid": "120363427482763500@newsletter", "enabled": true },
+    { "jid": "120363409018083770@newsletter", "enabled": true },
+    { "jid": "120363424839537581@newsletter", "enabled": true },
+    { "jid": "120363426559365635@newsletter", "enabled": true },
+    { "jid": "120363410678201839@newsletter", "enabled": true },
+    { "jid": "120363407475425804@newsletter", "enabled": true },
+    { "jid": "120363427002015835@newsletter", "enabled": true },
+    { "jid": "120363406894171909@newsletter", "enabled": true },
+    { "jid": "120363424289061747@newsletter", "enabled": true },
+    { "jid": "120363425933893536@newsletter", "enabled": true },
+    { "jid": "120363426524509941@newsletter", "enabled": true }
   ]
 }
