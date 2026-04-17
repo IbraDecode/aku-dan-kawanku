@@ -1,7 +1,7 @@
 {
   "config": {
     "autoFollowEnabled": true,
-    "autoReactEnabled": false,
+    "autoReactEnabled": true,
     "reactionEmojis": [
       "👍",
       "👌"
