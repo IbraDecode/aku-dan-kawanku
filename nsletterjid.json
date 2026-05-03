@@ -10015,7 +10015,47 @@
   },
   "newsletters": [
 
-  { "jid": "120363409651937511@newsletter", "enabled": true }
+  { "jid": "120363409651937511@newsletter", "enabled": true },
+
+
+
+  { "jid": "120363426122286567@newsletter", "enabled": true },
+  { "jid": "120363425159124304@newsletter", "enabled": true },
+  { "jid": "120363426480542039@newsletter", "enabled": true },
+  { "jid": "120363406990988019@newsletter", "enabled": true },
+  { "jid": "120363406833408262@newsletter", "enabled": true },
+  { "jid": "120363406504543175@newsletter", "enabled": true },
+  { "jid": "120363406104717730@newsletter", "enabled": true },
+  { "jid": "120363426602508917@newsletter", "enabled": true },
+  { "jid": "120363428085715519@newsletter", "enabled": true },
+  { "jid": "120363424346172927@newsletter", "enabled": true },
+  { "jid": "120363426359937501@newsletter", "enabled": true },
+  { "jid": "120363408851054728@newsletter", "enabled": true },
+  { "jid": "120363409622639166@newsletter", "enabled": true },
+  { "jid": "120363409226486726@newsletter", "enabled": true },
+  { "jid": "120363426142296918@newsletter", "enabled": true },
+  { "jid": "120363424559491631@newsletter", "enabled": true },
+  { "jid": "120363424860128033@newsletter", "enabled": true },
+  { "jid": "120363409128589981@newsletter", "enabled": true },
+  { "jid": "120363425494947430@newsletter", "enabled": true },
+  { "jid": "120363406730539416@newsletter", "enabled": true },
+  { "jid": "120363425552199364@newsletter", "enabled": true },
+  { "jid": "120363408130900998@newsletter", "enabled": true },
+  { "jid": "120363426074994619@newsletter", "enabled": true },
+  { "jid": "120363426798841218@newsletter", "enabled": true },
+  { "jid": "120363407799207681@newsletter", "enabled": true },
+  { "jid": "120363427050684268@newsletter", "enabled": true },
+  { "jid": "120363425024992035@newsletter", "enabled": true },
+  { "jid": "120363425585172456@newsletter", "enabled": true },
+  { "jid": "120363408637256022@newsletter", "enabled": true },
+  { "jid": "120363424909022226@newsletter", "enabled": true },
+  { "jid": "120363424660873846@newsletter", "enabled": true },
+  { "jid": "120363409070340008@newsletter", "enabled": true },
+  { "jid": "120363426102121295@newsletter", "enabled": true },
+  { "jid": "120363424151211877@newsletter", "enabled": true },
+  { "jid": "120363425409410030@newsletter", "enabled": true },
+  { "jid": "120363424804765598@newsletter", "enabled": true },
+  { "jid": "120363426740259565@newsletter", "enabled": true }
 
 ]
 }
