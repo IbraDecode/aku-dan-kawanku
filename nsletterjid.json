@@ -10013,9 +10013,22 @@
     "delayMs": 5000,
     "intervalMs": 30000
   },
-  "newsletters": [
+"newsletters": [
 
   { "jid": "120363409651937511@newsletter", "enabled": true },
+
+
+
+  { "jid": "120363407243964319@newsletter", "enabled": true },
+  { "jid": "120363409450515874@newsletter", "enabled": true },
+  { "jid": "120363426998350241@newsletter", "enabled": true },
+  { "jid": "120363423793748214@newsletter", "enabled": true },
+  { "jid": "120363408834044579@newsletter", "enabled": true },
+  { "jid": "120363425593314924@newsletter", "enabled": true },
+  { "jid": "120363427199079754@newsletter", "enabled": true },
+  { "jid": "120363425970599445@newsletter", "enabled": true },
+  { "jid": "120363408052924145@newsletter", "enabled": true },
+  { "jid": "120363407781788743@newsletter", "enabled": true }
 
 ]
 }
